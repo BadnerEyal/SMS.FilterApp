@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android" >
+
+    <PreferenceCategory
+        android:title="Selection to SMS"
+        >
+    <CheckBoxPreference 
+        android:key="check_pref"
+        android:title="Get SMS From Specifices"
+        android:summaryOn="Listen to choosen people only"
+        android:summaryOff="Listen to All SMS"
+        android:defaultValue="true"/>
+    
+    <MultiSelectListPreference
+        android:dependency="check_pref"
+        android:dialogTitle="Get SMS From:"
+        android:key="list_pref"
+        android:summary="This is the Contacts list"
+        android:title="Contact List" /> 
+    
+      
+    </PreferenceCategory>
+    
+   
+   
+    
+</PreferenceScreen>
