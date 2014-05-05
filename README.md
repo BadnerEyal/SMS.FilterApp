@@ -38,3 +38,5 @@ Message will also appear in drop down menu of the operating system
 
 בזמן קבלת הודעה מאיש קשר שנבחר 
 יופיע גם הודעה בתפריט הגלילה של מערכת ההפעלה
+
+![Alt desc](http://i57.tinypic.com/dzjq1k.jpg)
