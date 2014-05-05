@@ -17,6 +17,10 @@ That we have created will work only when open application interface
 
 which is in favor Update List.
 
+While receiving a message from a contact selected 
+
+Message will also appear in drop down menu of the operating system
+
 אפלקציה לסינון קבלת הודעות 
 
 באפלקציה זו אנו שומרים הודעות בבסיס נתונים רק של אנשי קשר
@@ -31,3 +35,6 @@ which is in favor Update List.
 
 אותה יצרנו שתעבוד רק כאשר האפלקציה פתוחה וזו לטובת עדכון
 הרשימה 
+
+בזמן קבלת הודעה מאיש קשר שנבחר 
+יופיע גם הודעה בתפריט הגלילה של מערכת ההפעלה
